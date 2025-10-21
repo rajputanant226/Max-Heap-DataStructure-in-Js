@@ -1,4 +1,5 @@
-🔺 Max Heap Data Structure
+### Max Heap Data Structure
+
 📘 Overview
 
 A Max Heap is a specialized binary tree-based data structure that satisfies the heap property —
